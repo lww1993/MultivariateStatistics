@@ -34,7 +34,7 @@ plot(y, pch = as.character(1:9), xlab = "", ylab = "")
 plot(hclust(dist(y), method = "complete"), 
       main = "Complete Linkage", xlab = "", sub = "", cex = .9)
 #####################################################################
-##The incursion
+##The inversion
 x1 <- c(0, 0)
 x2 <- c(1, 0)
 x3 <- c(0.5, 1)
