@@ -4,7 +4,7 @@ It includs slides, codes, data for my MVA classes.
 1-data are mainly from the website of the book called "多元统计分析及R语言建模" by "王斌会";
 ISLR data are from the book "Introduction to Statistical Learning with R"
 
-The codes belong to the book, but have been commented and modified slightly by myself; 
+The codes belong to the books, but have been commented and modified slightly by myself; 
 
 The slides have been created by myself completely.
 
